@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    
+    margin: 10px 100px;
+   
+}
+.header{
+    background-color: cyan;
+    text-align: center;
+    font-size: 50px;
+}
+.main-nav ul{
+background-color: pink;
+list-style: none;
+height: 40px;
+}
+.main-nav ul li{
+    display: inline-block;
+padding: 10px;
+text-decoration: none;
+}
+.main-nav ul li a{
+    text-decoration: none;
+}
+.content{
+    background-color: aliceblue;
+  padding: 10px 100px;
+   min-height: 500px;
+}
+.content p{
+    text-align: justify;
+}
+.footer{
+    background-color: grey;
+    text-align: center;
+    font-size: 18px;
+    padding: 5px;
+
+}
